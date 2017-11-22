@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# xorriso is required
+grub-mkrescue -o myos.iso root
